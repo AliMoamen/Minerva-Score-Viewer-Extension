@@ -5,11 +5,7 @@ A Chrome extension that helps Minerva University students track their class scor
 ## Installation
 
 1. **Download the extension files**:
-   - Clone or download this repository:
-     ```bash
-     git clone https://github.com/AliMoamen/Minerva-Score-Viewer-Extension.git
-     ```
-   - Or download the ZIP file and extract it.
+   - Download the ZIP file from the green "Code" button in the top right and extract it.
 
 2. **Load the extension in Chrome**:
    - Open Chrome and go to `chrome://extensions/`.
